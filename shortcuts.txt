@@ -1,0 +1,9 @@
+
+Title [executable]
+
+"Lab B - Orbits using Newton's Laws" [astrolabs_kepler.exe]
+"Lab G - Dark Matter" [astrolabs_dm.exe]
+"Lab G - "Gravitational Lensing" [astrolabs_lensing.exe]
+"Lab H - HR - Diagram" (astrolabs_hr.exe)
+
+

@@ -1,0 +1,117 @@
+<?xml version="1.0"?>
+<todo version="0.1.20">
+    <note priority="veryhigh" time="1376631945" done="1376982872">
+        HR: Add link to SDSS
+    </note>
+    <note priority="veryhigh" time="1376793827" done="1376802594">
+        Application Icons
+    </note>
+    <note priority="veryhigh" time="1376894392" done="1376967729">
+        Lensing: Add white box (or something) under the DM legend
+    </note>
+    <note priority="veryhigh" time="1376894416" done="1376967737">
+        Lensing: Curve galaxy image somehow
+    </note>
+    <note priority="veryhigh" time="1376969727" done="1376982878">
+        DM: Double check distances for Galaxy and Galaxy Cluster
+    </note>
+    <note priority="high" time="1376802441" done="1376982883">
+        Kepler: Moon should be brighter
+    </note>
+    <note priority="high" time="1376870324" done="1376879988">
+        Kepler: Stop clocks on autostop
+    </note>
+    <note priority="high" time="1376894406" done="1376967752">
+        Lensing: Make the galaxy an outline instead of the weird image
+    </note>
+    <note priority="high" time="1376894435" done="1376967747">
+        Lensing: Make default window size a bit bigger in width
+    </note>
+    <note priority="high" time="1376894632" done="1376983045">
+        Kepler: Area should have 2 places after the decimal
+    </note>
+    <note priority="high" time="1376894662" done="1376979682">
+        Kepler: Enable random control values
+    </note>
+    <note priority="high" time="1376894688" done="1376983047">
+        DM: Zoom out more on the galaxy cluster
+    </note>
+    <note priority="medium" time="1376628075" done="1376982863">
+        DM: Start at random locations
+    </note>
+    <note priority="medium" time="1376894456" done="1376979525">
+        Kepler: Make default window size a bit bigger in width
+    </note>
+    <note priority="low" time="1376793838" done="1376802574">
+        Windows build script
+    </note>
+    <note priority="low" time="1376870346" done="1376880002">
+        Kepler: Sweep won't close the whole circle (leaves one wedge)
+    </note>
+    <note priority="veryhigh" time="1376870238">
+        Kepler: Reset timer when the simulation is reset
+    </note>
+    <note priority="veryhigh" time="1377632231">
+        Kepler: Go +/- 60 shouldn't crash
+    </note>
+    <note priority="high" time="1377632206">
+        Kepler: Check kepler's laws for really eliptical orbits
+    </note>
+    <note priority="medium" time="1376628730">
+        DM: Make system fit the rendering screen
+    </note>
+    <note priority="medium" time="1376870265">
+        Kepler: Moon rotation and proper orientation
+    </note>
+    <note priority="medium" time="1376894511">
+        Kepler: Check that antialiasing is enabled
+    </note>
+    <note priority="medium" time="1376894519">
+        Kepler: Clear sweeps should zero out the counters
+    </note>
+    <note priority="medium" time="1376894718">
+        DM: Add distance indicator under velocity
+    </note>
+    <note priority="medium" time="1376968163">
+        Lensing: Use a higher resolution galaxy source image
+    </note>
+    <note priority="medium" time="1376983160">
+        DM: Maybe different orbits should have different colors
+    </note>
+    <note priority="medium" time="1376983302">
+        DM: Inverted orbits give wrong recession velocity sign
+    </note>
+    <note priority="medium" time="1376984367">
+        Kepler: Full orbit sweep missing one wedge
+    </note>
+    <note priority="medium" time="1377656517">
+        DM: Add bump mapping to objects
+    </note>
+    <note priority="medium" time="1377800241">
+        Add about box (Ctrl+H) with build date
+    </note>
+    <note priority="medium" time="1377801255">
+        Kepler: remove _steps_per_frame
+    </note>
+    <note priority="low" time="1376802428">
+        Kepler: Do collision detection at simulation level
+    </note>
+    <note priority="low" time="1376870299">
+        Kepler: Disable clear-sweeps button if there are no sweeps
+    </note>
+    <note priority="low" time="1376887421">
+        Kepler: Invalid orbits are not totally removed and can show up in the sweep
+    </note>
+    <note priority="low" time="1377656504">
+        Kepler: Add bump mapping to earth and moon
+    </note>
+    <note priority="verylow" time="1376625869">
+        DM Lab: Move legend onto plot to save some space
+    </note>
+    <note priority="verylow" time="1376870254">
+        Kepler: Make different sweeps different colors
+    </note>
+    <note priority="verylow" time="1377800020">
+        Kepler: Check if orbit is open/closed, etc.
+    </note>
+</todo>

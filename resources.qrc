@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/hr">
+        <file alias="m15gc">assets/backgrounds/m15gc.png</file>
+    </qresource>
+    <qresource prefix="/icon">
+        <file alias="play">assets/icons/ic_play_arrow_black_24dp_2x.png</file>
+        <file alias="stop">assets/icons/control-stop-square.png</file>
+        <file alias="measure">assets/icons/ruler-triangle.png</file>
+        <file alias="clear">assets/icons/ic_clear_black_24dp_2x.png</file>
+        <file alias="back">assets/icons/navigation-180-button.png</file>
+        <file alias="forward">assets/icons/navigation-000-button.png</file>
+        <file alias="earth">assets/icons/globe-green.png</file>
+        <file alias="timer">assets/icons/clock-select.png</file>
+        <file alias="circle">assets/icons/ic_radio_button_unchecked_black_24dp.png</file>
+        <file alias="ruler">assets/icons/ic_straighten_black_24dp.png</file>
+        <file alias="exit">assets/icons/ic_exit_to_app_black_24dp_2x.png</file>
+        <file alias="sweep">assets/icons/ic_signal_wifi_4_bar_black_24dp_2x.png</file>
+    </qresource>
+    <qresource prefix="/dm"/>
+    <qresource lang="galaxy" prefix="/lensing">
+        <file alias="gr_lens">assets/backgrounds/Abell_370.jpg</file>
+        <file alias="galaxy">assets/backgrounds/ngc7742.png</file>
+        <file alias="galaxy_outline">assets/backgrounds/ngc7742_outline.png</file>
+    </qresource>
+</RCC>
